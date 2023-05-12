@@ -1,0 +1,65 @@
+{
+    "Nintendo": [
+        {
+            "ProductName": "Super Mario Odyssey",
+            "GraphicName": "super_mario_odyssey.png",
+            "CostPrice": 20.00,
+            "MSRP": 59.99,
+            "QtyONHand": 200,
+            "QtyOnBackOrder": 50,
+            "Description": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
+        },
+        {
+            "ProductName": "The Legend of Zelda: Breath of the Wild",
+            "GraphicName": "zelda_breath_of_the_wild.png",
+            "CostPrice": 25.00,
+            "MSRP": 59.99,
+            "QtyONHand": 150,
+            "QtyOnBackOrder": 30,
+            "Description": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+        },
+        // ... add 3 more games
+    ],
+    "Sony": [
+        {
+            "ProductName": "God of War",
+            "GraphicName": "god_of_war.png",
+            "CostPrice": 30.00,
+            "MSRP": 59.99,
+            "QtyONHand": 180,
+            "QtyOnBackOrder": 40,
+            "Description": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
+        },
+        {
+            "ProductName": "The Last of Us Part II",
+            "GraphicName": "the_last_of_us_part_ii.png",
+            "CostPrice": 35.00,
+            "MSRP": 59.99,
+            "QtyONHand": 120,
+            "QtyOnBackOrder": 60,
+            "Description": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
+        },
+        // ... add 3 more games
+    ],
+    "Xbox": [
+        {
+            "ProductName": "Halo Infinite",
+            "GraphicName": "halo_infinite.png",
+            "CostPrice": 28.00,
+            "MSRP": 59.99,
+            "QtyONHand": 160,
+            "QtyOnBackOrder": 70,
+            "Description": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
+        },
+        {
+            "ProductName": "Forza Horizon 4",
+            "GraphicName": "forza_horizon_4.png",
+            "CostPrice": 25.00,
+            "MSRP": 59.99,
+            "QtyONHand": 140,
+            "QtyOnBackOrder": 80,
+            "Description": "Experience a shared world with dynamic seasons in the open-world racing game, Forza Horizon 4."
+        },
+        // ... add 3 more games
+    ]
+}
