@@ -1,5 +1,6 @@
 [
     {
+        "ID": "N1",
         "BRAND": "Nintendo",
         "PRODUCTNAME": "Super Mario Odyssey",
         "GRAPHICNAME": "super_mario_odyssey.png",
@@ -10,6 +11,7 @@
         "DESCRIPTION": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
     },
     {
+        "ID": "N2",
         "BRAND": "Nintendo",
         "PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
         "GRAPHICNAME": "zelda_breath_of_the_wild.png",
@@ -20,6 +22,7 @@
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
     {
+        "ID": "S1",
         "BRAND": "Sony",
         "PRODUCTNAME": "God of War",
         "GRAPHICNAME": "god_of_war.png",
@@ -30,6 +33,7 @@
         "DESCRIPTION": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
     },
     {
+        "ID": "S2",
         "BRAND": "Sony",
         "PRODUCTNAME": "The Last of Us Part II",
         "GRAPHICNAME": "the_last_of_us_part_ii.png",
@@ -40,6 +44,7 @@
         "DESCRIPTION": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
     },
     {
+        "ID": "X1",
         "BRAND": "Xbox",
         "PRODUCTNAME": "Halo Infinite",
         "GRAPHICNAME": "halo_infinite.png",
@@ -50,6 +55,7 @@
         "DESCRIPTION": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
     },
     {
+        "ID": "X2",
         "BRAND": "Xbox",
         "PRODUCTNAME": "Forza Horizon 4",
         "GRAPHICNAME": "forza_horizon_4.png",
