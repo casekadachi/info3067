@@ -25,7 +25,7 @@
         "GraphicName": "god_of_war.png",
         "CostPrice": 30.00,
         "MSRP": 59.99,
-        "QtyOnHand: 180,
+        "QtyOnHand": 180,
         "QtyOnBackOrder": 40,
         "Description": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
     },
