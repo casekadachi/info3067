@@ -1,63 +1,62 @@
 [
     {
-        "Brand": "Nintendo",
-        "ProductName": "Super Mario Odyssey",
-        "GraphicName": "super_mario_odyssey.png",
-        "CostPrice": 20.00,
+        "BRAND": "Nintendo",
+        "PRODUCTNAME": "Super Mario Odyssey",
+        "GRAPHICNAME": "super_mario_odyssey.png",
+        "COSTPRICE": 20.00,
         "MSRP": 59.99,
-        "QtyOnand": 200,
-        "QtyOnBackOrder": 50,
-        "Description": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
+        "QTYONHAND": 200,
+        "QTYONBACKORDER": 50,
+        "DESCRIPTION": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
     },
     {
-        "Brand": "Nintendo",
-        "ProductName": "The Legend of Zelda: Breath of the Wild",
-        "GraphicName": "zelda_breath_of_the_wild.png",
-        "CostPrice": 25.00,
+        "BRAND": "Nintendo",
+        "PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
+        "GRAPHICNAME": "zelda_breath_of_the_wild.png",
+        "COSTPRICE": 25.00,
         "MSRP": 59.99,
-        "QtyOnand": 150,
-        "QtyOnBackOrder": 30,
-        "Description": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+        "QTYONHAND": 150,
+        "QTYONBACKORDER": 30,
+        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
     {
-        "Brand": "Sony",
-        "ProductName": "God of War",
-        "GraphicName": "god_of_war.png",
-        "CostPrice": 30.00,
+        "BRAND": "Sony",
+        "PRODUCTNAME": "God of War",
+        "GRAPHICNAME": "god_of_war.png",
+        "COSTPRICE": 30.00,
         "MSRP": 59.99,
-        "QtyOnHand": 180,
-        "QtyOnBackOrder": 40,
-        "Description": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
+        "QTYONHAND": 180,
+        "QTYONBACKORDER": 40,
+        "DESCRIPTION": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
     },
     {
-        "Brand": "Sony",
-        "ProductName": "The Last of Us Part II",
-        "GraphicName": "the_last_of_us_part_ii.png",
-        "CostPrice": 35.00,
+        "BRAND": "Sony",
+        "PRODUCTNAME": "The Last of Us Part II",
+        "GRAPHICNAME": "the_last_of_us_part_ii.png",
+        "COSTPRICE": 35.00,
         "MSRP": 59.99,
-        "QtyOnHand": 120,
-        "QtyOnBackOrder": 60,
-        "Description": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
+        "QTYONHAND": 120,
+        "QTYONBACKORDER": 60,
+        "DESCRIPTION": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
     },
     {
-        "Brand": "Xbox",
-        "ProductName": "Halo Infinite",
-        "GraphicName": "halo_infinite.png",
-        "CostPrice": 28.00,
+        "BRAND": "Xbox",
+        "PRODUCTNAME": "Halo Infinite",
+        "GRAPHICNAME": "halo_infinite.png",
+        "COSTPRICE": 28.00,
         "MSRP": 59.99,
-        "QtyOnHand": 160,
-        "QtyOnBackOrder": 70,
-        "Description": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
+        "QTYONHAND": 160,
+        "QTYONBACKORDER": 70,
+        "DESCRIPTION": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
     },
     {
-        "Brand": "Xbox",
-        "ProductName": "Forza Horizon 4",
-        "GraphicName": "forza_horizon_4.png",
-        "CostPrice": 25.00,
+        "BRAND": "Xbox",
+        "PRODUCTNAME": "Forza Horizon 4",
+        "GRAPHICNAME": "forza_horizon_4.png",
+        "COSTPRICE": 25.00,
         "MSRP": 59.99,
-        "QtyOnHand": 140,
-        "QtyOnBackOrder": 80,
-        "Description": "Experience a shared world with dynamic seasons in the open-world racing game, Forza Horizon 4."
+        "QTYONHAND": 140,
+        "QTYONBACKORDER": 80,
+        "DESCRIPTION": "Experience a shared world with dynamic seasons in the open-world racing game, Forza Horizon 4."
     }
 ]
-
