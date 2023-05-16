@@ -1,7 +1,6 @@
 [
     {
         "ID": "N1",
-        "brandId": 1,
         "BRAND": "Nintendo",
         "PRODUCTNAME": "Super Mario Odyssey",
         "GRAPHICNAME": "super_mario_odyssey.png",
@@ -13,7 +12,6 @@
     },
     {
         "ID": "N2",
-        "brandId": 1,
         "BRAND": "Nintendo",
         "PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
         "GRAPHICNAME": "zelda_breath_of_the_wild.png",
@@ -25,7 +23,6 @@
     },
     {
         "ID": "S1",
-        "brandId": 2,
         "BRAND": "Sony",
         "PRODUCTNAME": "God of War",
         "GRAPHICNAME": "god_of_war.png",
@@ -37,7 +34,6 @@
     },
     {
         "ID": "S2",
-        "brandId": 2,
         "BRAND": "Sony",
         "PRODUCTNAME": "The Last of Us Part II",
         "GRAPHICNAME": "the_last_of_us_part_ii.png",
@@ -49,7 +45,6 @@
     },
     {
         "ID": "X1",
-        "brandId": 3,
         "BRAND": "Xbox",
         "PRODUCTNAME": "Halo Infinite",
         "GRAPHICNAME": "halo_infinite.png",
@@ -61,7 +56,6 @@
     },
     {
         "ID": "X2",
-        "brandId": 3,
         "BRAND": "Xbox",
         "PRODUCTNAME": "Forza Horizon 4",
         "GRAPHICNAME": "forza_horizon_4.png",
