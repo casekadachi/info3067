@@ -1,7 +1,7 @@
 [
     {
         "ID": "N1",
-        "BRAND": "Nintendo",
+        "BRAND": "Nitendo",
         "PRODUCTNAME": "Super Mario Odyssey",
         "GRAPHICNAME": "at1.jpg",
         "COSTPRICE": 20.00,
@@ -12,7 +12,7 @@
     },
     {
         "ID": "N2",
-        "BRAND": "Nintendo",
+        "BRAND": "Nitendo",
         "PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
         "GRAPHICNAME": "at2.jpg",
         "COSTPRICE": 25.00,
