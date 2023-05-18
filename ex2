@@ -22,6 +22,17 @@
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
     {
+        "ID": "N3",
+        "BRAND": "Nintendo",
+        "PRODUCTNAME": "The Legend of Zelda: Tears of the Kingdom",
+        "GRAPHICNAME": "at2.jpg",
+        "COSTPRICE": 25.00,
+        "MSRP": 59.99,
+        "QTYONHAND": 150,
+        "QTYONBACKORDER": 30,
+        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+    },
+    {
         "ID": "S1",
         "BRAND": "Sony",
         "PRODUCTNAME": "God of War",
