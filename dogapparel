@@ -1,0 +1,95 @@
+[
+    {
+        "BRAND": "Canada Pooch",
+        "PRODUCTNAME": "Canada Pooch Everest Explorer Dog Coat - Red",
+        "GRAPHICNAME": "cp1.jpg",
+        "COSTPRICE": 30.00,
+        "MSRP": 32.47,
+        "QTYONHAND": 25,
+        "QTYONBACKORDER": 15,
+        "DESCRIPTION": "The Canada Pooch Everest Explorer Jacket offers warmth, protection, and style in one winter-ready dog vest. This jacket features a rugged water-resistant shell to keep your dog
+Protected, soft fleece lining and faux-down insulation for the ultimate warm dog vest, and faux-fur trim to add style. It also comes with a dual Velcro closure for your pup, as well as a removeable hood."
+    },
+    {
+        "BRAND": "Canada Pooch",
+        "PRODUCTNAME": "Pick Me Glow-in-the-Dark Poncho",
+        "GRAPHICNAME": "cp2.jpg",
+        "COSTPRICE": 39.99,
+        "MSRP": 39.99,
+        "QTYONHAND": 30,
+        "QTYONBACKORDER": 10,
+        "DESCRIPTION": "The Canada Pooch Pick Me Glow-in-the-Dark Poncho is a lightweight water-resistant dog rain poncho that keeps your pup dry and glows in the dark. Your dog will look great and keep dry in this fun glow-in-the-dark poncho."
+    },
+    {
+        "BRAND": "Canada Pooch",
+        "PRODUCTNAME": "Canada Pooch Cooling Vest - Pink",
+        "GRAPHICNAME": "cp3.jpg",
+        "COSTPRICE": 50.99,
+        "MSRP": 54.99,
+        "QTYONHAND": 30,
+        "QTYONBACKORDER": 10,
+        "DESCRIPTION": "The Canada Pooch Cooling Vest is the perfect antidote for hot summer days. This functional and stylish cooling vest will make your pup the coolest canine when the weather turns warm."
+    },
+    {
+        "BRAND": "Canada Pooch",
+        "PRODUCTNAME": "Canada Pooch 2-in-1 Dog Harness Puffer Jacket - Black",
+        "GRAPHICNAME": "cp4.jpg",
+        "COSTPRICE": 42.47,
+        "MSRP": 47.47,
+        "QTYONHAND": 30,
+        "QTYONBACKORDER": 10,
+        "DESCRIPTION": "The Canada Pooch Harness Puffer Jacket is a wonderful wintertime fashion choice for your pup. This jacket is a 2-in-1 winter puffer with an externally connected harness for seamless walks."
+    },
+    {
+        "BRAND": "Canada Pooch",
+        "PRODUCTNAME": "Canada Pooch Torrential Tracker Dog Raincoat - Black",
+        "GRAPHICNAME": "cp5.jpg",
+        "COSTPRICE": 49.99,
+        "MSRP": 49.99,
+        "QTYONHAND": 30,
+        "QTYONBACKORDER": 10,
+        "DESCRIPTION": "This Canada Pooch Torrential Tracker is an iconic raincoat with a stylish twist to keep your dog dry. This raincoat features a water-resistant shell, and is reflective for added visibility as well."
+    },
+    {
+        "BRAND": "Top Paw",
+        "PRODUCTNAME": "Canada Day Dog Hoodie",
+        "GRAPHICNAME": "tp1.jpg",
+        "COSTPRICE": 19.99,
+        "MSRP": 19.99,
+        "QTYONHAND": 20,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "This Top Paw Canada Dog Hoodie provides an adorable way for your furry friend to help you celebrate your Canadian pride. This fun hoodie slips on and off easily while offering a comfortable fit, and features a decorative maple leaf that makes the perfect shout-out to the great country of Canada."
+    },
+    {
+        "BRAND": "Top Paw",
+        "PRODUCTNAME": "Smiley Face Dog Matching Accessory Set",
+        "GRAPHICNAME": "tp2.jpg",
+        "COSTPRICE": 6.47,
+        "MSRP": 6.47,
+        "QTYONHAND": 20,
+        "QTYONBACKORDER": 10,
+        "DESCRIPTION": "This Top Paw Smiley Face Accessory Set offers two great accessories that will look adorable on your pup. This set comes with a matching hair tie and bandana; both of which feature an adorable smiley face design. Each of these accessories slips on and off easily while offering a comfortable fit and a fun look for your furry friend."
+    },
+    {
+        "BRAND": "Top Paw",
+        "PRODUCTNAME": "Grey Bunny Dog Sweater & Hat",
+        "GRAPHICNAME": "tp3.jpg",
+        "COSTPRICE": 14.97,
+        "MSRP": 14.97,
+        "QTYONHAND": 10,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "Keep your dog warm in the winter months, and do so in fun and stylish fashion, with this Top Paw Grey Bunny Dog Sweater and Hat. This great-looking sweater and hat slips on and off easily and offers a comfortable fit, and is soft and warm while offering a fun design that allows your pup to channel his inner bunny."
+    },
+    // ... add 4 more Top Paw products
+    {
+        "BRAND": "Arcadia Trail",
+        "PRODUCTNAME": "Expandable Backpack",
+        "GRAPHICNAME": "expandable_backpack.png",
+        "COSTPRICE": 35.00,
+        "MSRP": 70.00,
+        "QTYONHAND": 140,
+        "QTYONBACKORDER": 60,
+        "DESCRIPTION": "Enable your dog to carry their own supplies when hiking with our Expandable Backpack."
+    }
+    // ... add 4 more Arcadia Trail products
+]
