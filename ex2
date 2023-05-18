@@ -1,7 +1,7 @@
 [
     {
         "ID": "N1",
-        "BRAND": "Nitendo",
+        "BRAND": "Nintendo",
         "PRODUCTNAME": "Super Mario Odyssey",
         "GRAPHICNAME": "at1.jpg",
         "COSTPRICE": 20.00,
@@ -12,12 +12,23 @@
     },
     {
         "ID": "N2",
-        "BRAND": "Nitendo",
+        "BRAND": "Nintendo",
         "PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
         "GRAPHICNAME": "at2.jpg",
         "COSTPRICE": 25.00,
         "MSRP": 59.99,
         "QTYONHAND": 150,
+        "QTYONBACKORDER": 30,
+        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+    },
+    {
+        "ID": "N3",
+        "BRAND": "Nintendo",
+        "PRODUCTNAME": "The Legend of Zelda: Trars of the Kingdom",
+        "GRAPHICNAME": "at3.jpg",
+        "COSTPRICE": 99.00,
+        "MSRP": 89.99,
+        "QTYONHAND": 100,
         "QTYONBACKORDER": 30,
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
