@@ -80,16 +80,74 @@ Protected, soft fleece lining and faux-down insulation for the ultimate warm dog
         "QTYONBACKORDER": 5,
         "DESCRIPTION": "Keep your dog warm in the winter months, and do so in fun and stylish fashion, with this Top Paw Grey Bunny Dog Sweater and Hat. This great-looking sweater and hat slips on and off easily and offers a comfortable fit, and is soft and warm while offering a fun design that allows your pup to channel his inner bunny."
     },
-    // ... add 4 more Top Paw products
+    {
+        "BRAND": "Top Paw",
+        "PRODUCTNAME": "\"Over It\" Rainbow Puppy Pet Dress",
+        "GRAPHICNAME": "tp4.jpg",
+        "COSTPRICE": 6.47,
+        "MSRP": 6.47,
+        "QTYONHAND": 10,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "Your dog will feel comfortable and look amazing in this Top Paw Over It Pink Dress. This amazing dress slips on and off easily and offers a comfortable fit, and offers a fun and colorful fashion choice for your pooch."
+    },
+    {
+        "BRAND": "Top Paw",
+        "PRODUCTNAME": "Lemon Print Dog Bandana Collar Slide",
+        "GRAPHICNAME": "tp5.jpg",
+        "COSTPRICE": 3.47,
+        "MSRP": 3.47,
+        "QTYONHAND": 10,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "Add a little style to your dog's collar with this Top Paw Lemon Bandana Collar Slide. This slide slips on and off easily, and takes the shape of a stylish bandana with a lemon-centric design that will look adorable on your pup."
+    },
     {
         "BRAND": "Arcadia Trail",
-        "PRODUCTNAME": "Expandable Backpack",
-        "GRAPHICNAME": "expandable_backpack.png",
-        "COSTPRICE": 35.00,
-        "MSRP": 70.00,
-        "QTYONHAND": 140,
-        "QTYONBACKORDER": 60,
-        "DESCRIPTION": "Enable your dog to carry their own supplies when hiking with our Expandable Backpack."
+        "PRODUCTNAME": "Reversible Dog Coat",
+        "GRAPHICNAME": "at1.jpg",
+        "COSTPRICE": 34.97,
+        "MSRP": 35.00,
+        "QTYONHAND": 10,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "The right jacket for your pet while the two of you are out on the trail together can make all the difference when it comes to both comfort and security. This Arcadia Trail Reversible Coat offers warmth and comfort as well as variety in terms of its look. This water repellent coat is indeed reversible, features a Sherpa lining to keep your pup warm, and is even water repellent to keep your dog dry no matter what conditions the two of you encounter on the trail."
+    },
+    {
+        "BRAND": "Arcadia Trail",
+        "PRODUCTNAME": "High Visibility Flotation Aid",
+        "GRAPHICNAME": "at2.jpg",
+        "COSTPRICE": 39.99,
+        "MSRP": 40.00,
+        "QTYONHAND": 15,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "Water safety is paramount for your dog, and the Arcadia Trail High Visibility Flotation Aid makes certain that your dog can experience the water on your outdoor adventures safely. This flotation aid is a must have because it keeps your dog afloat as he enjoys a good swim, and even comes with a rescue handle should an emergency arise in the water. It offers added safety as well, as a combination of bright, fluorescent colors and reflective trim and webbing in the straps make it visible day and night."
+    },
+    {
+        "BRAND": "Arcadia Trail",
+        "PRODUCTNAME": "Life's Logo Dog Cap",
+        "GRAPHICNAME": "at3.jpg",
+        "COSTPRICE": 12.99,
+        "MSRP": 13.00,
+        "QTYONHAND": 10,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "You can feel great about outfitting your pup in this Arcadia Trail Life's Logo Pet Cap. This great looking, multi-colored cap slips on and off easily while offering a comfortable fit, with an adjustable drawstring and Velcro strap for a secure yet comfortable fit. Best of all, it is made from 100% recyclable materials for a responsible, sustainable, and stylish look."
+    },
+    {
+        "BRAND": "Arcadia Trail",
+        "PRODUCTNAME": "Reflective Dog Coat",
+        "GRAPHICNAME": "at4.jpg",
+        "COSTPRICE": 24.97,
+        "MSRP": 25,
+        "QTYONHAND": 20,
+        "QTYONBACKORDER": 10,
+        "DESCRIPTION": "The right jacket for your pet while the two of you are out on the trail together can make all the difference when it comes to both comfort and security. This Arcadia Trail Reflective Coat offers warmth, and is reflective for added visibility as well. Use flash photography to reveal just how bright this beautifully designed jacket can get. Your pup will also love the warmth of its Sherpa liner. Stylish and functional is the name of the game with this jacket, which is also adjustable for a comfortable fit. What a great choice for the outdoor adventures you share with your pup."
+    },
+    {
+        "BRAND": "Arcadia Trail",
+        "PRODUCTNAME": "Life's Logo Dog Hoodie",
+        "GRAPHICNAME": "at5.jpg",
+        "COSTPRICE": 29.99,
+        "MSRP": 30.00,
+        "QTYONHAND": 10,
+        "QTYONBACKORDER": 5,
+        "DESCRIPTION": "You can feel great about outfitting your pup in this Arcadia Trail Life's Logo Purple Dog Hoodie. This great looking hoodie slips on and off easily while offering a comfortable fit, and features drawstrings and an adjustable Velcro strip. Best of all, it is made from 100% recyclable materials for a responsible, sustainable, and stylish look."
     }
-    // ... add 4 more Arcadia Trail products
 ]
