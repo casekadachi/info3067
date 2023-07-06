@@ -6,8 +6,8 @@
         "GRAPHICNAME": "Odessey.jpg",
         "COSTPRICE": 69.99,
         "MSRP": 79.99,
-        "QTYONHAND": 200,
-        "QTYONBACKORDER": 50,
+        "QTYONHAND": 2,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
     },
     {
@@ -17,8 +17,8 @@
         "GRAPHICNAME": "BOTW.jpg",
         "COSTPRICE": 69.99,
         "MSRP": 79.99,
-        "QTYONHAND": 150,
-        "QTYONBACKORDER": 30,
+        "QTYONHAND": 1,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
     {
@@ -28,8 +28,8 @@
         "GRAPHICNAME": "TOTK.jpg",
         "COSTPRICE": 89.99,
         "MSRP": 89.99,
-        "QTYONHAND": 150,
-        "QTYONBACKORDER": 30,
+        "QTYONHAND": 3,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
     {
@@ -39,8 +39,8 @@
         "GRAPHICNAME": "at4.jpg",
         "COSTPRICE": 79.99,
         "MSRP": 79.99,
-        "QTYONHAND": 150,
-        "QTYONBACKORDER": 30,
+        "QTYONHAND": 2,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
      {
@@ -50,8 +50,8 @@
         "GRAPHICNAME": "at5.jpg",
         "COSTPRICE": 79.99,
         "MSRP": 79.99,
-        "QTYONHAND": 150,
-        "QTYONBACKORDER": 30,
+        "QTYONHAND": 2,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
     },
     {
@@ -61,8 +61,8 @@
         "GRAPHICNAME": "tp1.jpg",
         "COSTPRICE": 54.99,
         "MSRP": 79.99,
-        "QTYONHAND": 180,
-        "QTYONBACKORDER": 40,
+        "QTYONHAND": 3,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
     },
     {
@@ -72,8 +72,8 @@
         "GRAPHICNAME": "tp2.jpg",
         "COSTPRICE": 39.99,
         "MSRP": 49.99,
-        "QTYONHAND": 120,
-        "QTYONBACKORDER": 60,
+        "QTYONHAND": 2,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
     },
     {
@@ -83,8 +83,8 @@
         "GRAPHICNAME": "cp1.jpg",
         "COSTPRICE": 59.99,
         "MSRP": 79.99,
-        "QTYONHAND": 160,
-        "QTYONBACKORDER": 70,
+        "QTYONHAND": 1,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
     },
     {
@@ -94,8 +94,8 @@
         "GRAPHICNAME": "cp2.jpg",
         "COSTPRICE": 59.99,
         "MSRP": 79.99,
-        "QTYONHAND": 140,
-        "QTYONBACKORDER": 80,
+        "QTYONHAND": 3,
+        "QTYONBACKORDER": 0,
         "DESCRIPTION": "Experience a shared world with dynamic seasons in the open-world racing game, Forza Horizon 4."
     }
 ]
