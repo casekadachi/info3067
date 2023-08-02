@@ -1,135 +1,167 @@
-[
-    {
-        "ID": "N1",
-        "BRAND": "Nintendo",
-        "PRODUCTNAME": "Super Mario Odyssey",
-        "GRAPHICNAME": "Odessey.jpg",
-        "COSTPRICE": 69.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 2,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
-    },
-    {
-        "ID": "N2",
-        "BRAND": "Nintendo",
-        "PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
-        "GRAPHICNAME": "BOTW.jpg",
-        "COSTPRICE": 69.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 1,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
-    },
-    {
-        "ID": "N3",
-        "BRAND": "Nintendo",
-        "PRODUCTNAME": "The Legend of Zelda: Tears of the Kingdom",
-        "GRAPHICNAME": "TOTK.jpg",
-        "COSTPRICE": 89.99,
-        "MSRP": 89.99,
-        "QTYONHAND": 3,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
-    },
-    {
-        "ID": "N4",
-        "BRAND": "Nintendo",
-        "PRODUCTNAME": "Splatoon 3",
-        "GRAPHICNAME": "Splatoon3.jpg",
-        "COSTPRICE": 79.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 2,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
-    },
-     {
-        "ID": "N5",
-        "BRAND": "Nintendo",
-        "PRODUCTNAME": "Super Mario Cart 8",
-        "GRAPHICNAME": "SuperMarioCart8.jpg",
-        "COSTPRICE": 79.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 2,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
-    },
-    {
-        "ID": "S1",
-        "BRAND": "Sony",
-        "PRODUCTNAME": "God of War",
-        "GRAPHICNAME": "GodOfWar.jpg",
-        "COSTPRICE": 54.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 3,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
-    },
-    {
-        "ID": "S2",
-        "BRAND": "Sony",
-        "PRODUCTNAME": "The Last of Us Part II",
-        "GRAPHICNAME": "LOU2.jpg",
-        "COSTPRICE": 39.99,
-        "MSRP": 49.99,
-        "QTYONHAND": 2,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
-    },
-    {
-    "ID": "S3",
-    "BRAND": "Sony",
-    "PRODUCTNAME": "Spider-Man: Miles Morales",
-    "GRAPHICNAME": "Spiderman.jpg",
-    "COSTPRICE": 44.99,
-    "MSRP": 59.99,
-    "QTYONHAND": 5,
-    "QTYONBACKORDER": 0,
-    "DESCRIPTION": "Play as Miles Morales as he becomes the new Spider-Man and takes up the responsibility of protecting New York City."
-},
-{
-    "ID": "S4",
-    "BRAND": "Sony",
-    "PRODUCTNAME": "Horizon Forbidden West",
-    "GRAPHICNAME": "Horizon.jpg",
-    "COSTPRICE": 49.99,
-    "MSRP": 69.99,
-    "QTYONHAND": 4,
-    "QTYONBACKORDER": 0,
-    "DESCRIPTION": "Join Aloy in a post-apocalyptic world filled with robotic creatures, as she uncovers secrets that lie in the uncharted lands."
-},
-{
-    "ID": "S5",
-    "BRAND": "Sony",
-    "PRODUCTNAME": "Ghost of Tsushima",
-    "GRAPHICNAME": "GhostOfTsushima.jpg",
-    "COSTPRICE": 39.99,
-    "MSRP": 59.99,
-    "QTYONHAND": 3,
-    "QTYONBACKORDER": 0,
-    "DESCRIPTION": "Take on the role of Jin Sakai, a samurai warrior, as he embarks on an epic adventure to protect Tsushima Island during the Mongol invasion."
-}
+[{
+		"ID": "N1",
+		"BRAND": "Nintendo",
+		"PRODUCTNAME": "Super Mario Odyssey",
+		"GRAPHICNAME": "Odessey.jpg",
+		"COSTPRICE": 69.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 2,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Embark on a captivating, globe-trotting adventure in Super Mario Odyssey."
+	},
+	{
+		"ID": "N2",
+		"BRAND": "Nintendo",
+		"PRODUCTNAME": "The Legend of Zelda: Breath of the Wild",
+		"GRAPHICNAME": "BOTW.jpg",
+		"COSTPRICE": 69.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 1,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+	},
+	{
+		"ID": "N3",
+		"BRAND": "Nintendo",
+		"PRODUCTNAME": "The Legend of Zelda: Tears of the Kingdom",
+		"GRAPHICNAME": "TOTK.jpg",
+		"COSTPRICE": 89.99,
+		"MSRP": 89.99,
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+	},
+	{
+		"ID": "N4",
+		"BRAND": "Nintendo",
+		"PRODUCTNAME": "Splatoon 3",
+		"GRAPHICNAME": "Splatoon3.jpg",
+		"COSTPRICE": 79.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 2,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+	},
+	{
+		"ID": "N5",
+		"BRAND": "Nintendo",
+		"PRODUCTNAME": "Super Mario Cart 8",
+		"GRAPHICNAME": "SuperMarioCart8.jpg",
+		"COSTPRICE": 79.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 2,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+	},
+	{
+		"ID": "S1",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "God of War",
+		"GRAPHICNAME": "GodOfWar.jpg",
+		"COSTPRICE": 54.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Kratos, the Spartan warrior, as he breaks the bonds of Ares, the God of War."
+	},
+	{
+		"ID": "S2",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "The Last of Us Part II",
+		"GRAPHICNAME": "LOU2.jpg",
+		"COSTPRICE": 39.99,
+		"MSRP": 49.99,
+		"QTYONHAND": 2,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Experience the escalating moral conflicts created by Ellie's relentless pursuit of vengeance."
+	},
+	{
+		"ID": "S3",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "Spider-Man: Miles Morales",
+		"GRAPHICNAME": "Spiderman.jpg",
+		"COSTPRICE": 44.99,
+		"MSRP": 59.99,
+		"QTYONHAND": 5,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Play as Miles Morales as he becomes the new Spider-Man and takes up the responsibility of protecting New York City."
+	},
+	{
+		"ID": "S4",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "Horizon Forbidden West",
+		"GRAPHICNAME": "Horizon.jpg",
+		"COSTPRICE": 49.99,
+		"MSRP": 69.99,
+		"QTYONHAND": 4,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Aloy in a post-apocalyptic world filled with robotic creatures, as she uncovers secrets that lie in the uncharted lands."
+	},
+	{
+		"ID": "S5",
+		"BRAND": "Sony",
+		"PRODUCTNAME": "Ghost of Tsushima",
+		"GRAPHICNAME": "GhostOfTsushima.jpg",
+		"COSTPRICE": 39.99,
+		"MSRP": 59.99,
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Take on the role of Jin Sakai, a samurai warrior, as he embarks on an epic adventure to protect Tsushima Island during the Mongol invasion."
+	},
 
-    {
-        "ID": "X1",
-        "BRAND": "Xbox",
-        "PRODUCTNAME": "Halo Infinite",
-        "GRAPHICNAME": "cp1.jpg",
-        "COSTPRICE": 59.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 1,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
-    },
-    {
-        "ID": "X2",
-        "BRAND": "Xbox",
-        "PRODUCTNAME": "Forza Horizon 4",
-        "GRAPHICNAME": "cp2.jpg",
-        "COSTPRICE": 59.99,
-        "MSRP": 79.99,
-        "QTYONHAND": 3,
-        "QTYONBACKORDER": 0,
-        "DESCRIPTION": "Experience a shared world with dynamic seasons in the open-world racing game, Forza Horizon 4."
-    }
+	{
+		"ID": "X1",
+		"BRAND": "Xbox",
+		"PRODUCTNAME": "Halo Infinite",
+		"GRAPHICNAME": "Halo.jpg",
+		"COSTPRICE": 59.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 1,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Join Master Chief in the next chapter of the Halo saga packed with action and adventure."
+	},
+	{
+		"ID": "X2",
+		"BRAND": "Xbox",
+		"PRODUCTNAME": "Forza Horizon 5",
+		"GRAPHICNAME": "Forza.jpg",
+		"COSTPRICE": 59.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Experience a shared world with dynamic seasons in the open-world racing game, Forza Horizon 5."
+	},
+	{
+		"ID": "X3",
+		"BRAND": "Xbox",
+		"PRODUCTNAME": "Gears 5",
+		"GRAPHICNAME": "Gears5.jpg",
+		"COSTPRICE": 39.99,
+		"MSRP": 59.99,
+		"QTYONHAND": 4,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Continue the acclaimed saga with Gears 5, as Kait Diaz breaks away to uncover her connection to the enemy and discovers the true danger to Sera."
+	},
+	{
+		"ID": "X4",
+		"BRAND": "Xbox",
+		"PRODUCTNAME": "Sea of Thieves",
+		"GRAPHICNAME": "SeaOfThieves.jpg",
+		"COSTPRICE": 49.99,
+		"MSRP": 69.99,
+		"QTYONHAND": 2,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Embark on a pirate's life in Sea of Thieves, a shared-world adventure game filled with exploration, battles, and treasure hunting."
+	},
+	{
+		"ID": "X5",
+		"BRAND": "Xbox",
+		"PRODUCTNAME": "Fable",
+		"GRAPHICNAME": "Fable.jpg",
+		"COSTPRICE": 59.99,
+		"MSRP": 79.99,
+		"QTYONHAND": 3,
+		"QTYONBACKORDER": 0,
+		"DESCRIPTION": "Explore a world of magic, folklore, and adventure in Fable, where your choices shape the world around you."
+	}
 ]
