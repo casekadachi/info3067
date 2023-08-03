@@ -18,7 +18,7 @@
 		"MSRP": 79.99,
 		"QTYONHAND": 1,
 		"QTYONBACKORDER": 0,
-		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+		"DESCRIPTION": "Explore the wilds of Hyrule any way you like in this open-air adventure featuring Link."
 	},
 	{
 		"ID": "N3",
@@ -29,7 +29,7 @@
 		"MSRP": 89.99,
 		"QTYONHAND": 3,
 		"QTYONBACKORDER": 0,
-		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+		"DESCRIPTION": "Unravel new mysteries and face epic challenges in the Kingdom of Hyrule with this new addition to the Legend of Zelda series."
 	},
 	{
 		"ID": "N4",
@@ -40,19 +40,20 @@
 		"MSRP": 79.99,
 		"QTYONHAND": 2,
 		"QTYONBACKORDER": 0,
-		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+		"DESCRIPTION": "Get ready for new ink-splatting action in the next installment of the Splatoon series."
 	},
 	{
 		"ID": "N5",
 		"BRAND": "Nintendo",
-		"PRODUCTNAME": "Super Mario Cart 8",
+		"PRODUCTNAME": "Super Mario Kart 8",
 		"GRAPHICNAME": "SuperMarioCart8.jpg",
 		"COSTPRICE": 79.99,
 		"MSRP": 79.99,
 		"QTYONHAND": 2,
 		"QTYONBACKORDER": 0,
-		"DESCRIPTION": "Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny."
+		"DESCRIPTION": "Race your friends in the definitive version of Mario Kart 8, only on Nintendo Switch! Drive through a variety of thrilling courses in this fun-filled racing game."
 	},
+
 	{
 		"ID": "S1",
 		"BRAND": "Sony",
